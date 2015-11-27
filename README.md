@@ -6,7 +6,7 @@ I am currently looking for a buddy to build this in Python with me. Please conta
 
 ## General
 Veronica is a voice automation suite for your home.
-It is an open-source project influenced by Jasper,
+It is an open-source project influenced by [Jasper](https://github.com/jasperproject/jasper-client), 
 but with more emphasis on interacting with devices and sensors, and making it easier for the average Joe to start.
 It runs off of a network of Raspberry Pi with microphones, and takes input from an optional smartphone with a companion app.
 
